@@ -1,0 +1,183 @@
+Data,Campanha,Canal,Visualizacoes,Cliques,Conversoes,Custo,Regiao
+2024-01-01,Campanha E,Facebook Ads,6471,504,19,832.21,São Paulo
+2024-01-02,Campanha D,Instagram,17841,926,93,486.61,Rio de Janeiro
+2024-01-03,Campanha A,Instagram,27566,594,74,993.87,São Paulo
+2024-01-04,Campanha C,Google Ads,5335,295,97,913.22,Bahia
+2024-01-05,Campanha E,Google Ads,7399,769,85,558.24,Minas Gerais
+2024-01-06,Campanha E,Twitter Ads,24276,270,82,975.75,Minas Gerais
+2024-01-07,Campanha C,LinkedIn Ads,11971,308,58,809.81,Paraná
+2024-01-08,Campanha B,LinkedIn Ads,20926,104,52,594.29,Minas Gerais
+2024-01-09,Campanha E,Google Ads,23265,883,28,550.92,Paraná
+2024-01-10,Campanha E,Google Ads,24662,957,63,691.8,Bahia
+2024-01-11,Campanha A,Google Ads,5065,233,97,399.59,Minas Gerais
+2024-01-12,Campanha E,LinkedIn Ads,12344,716,76,664.44,Bahia
+2024-01-13,Campanha D,Google Ads,28202,744,53,637.0,Rio de Janeiro
+2024-01-14,Campanha D,Facebook Ads,29078,626,80,231.91,Rio de Janeiro
+2024-01-15,Campanha C,LinkedIn Ads,6099,742,83,479.4,Paraná
+2024-01-16,Campanha A,Facebook Ads,17865,764,10,956.13,São Paulo
+2024-01-17,Campanha E,Google Ads,29469,686,38,233.27,São Paulo
+2024-01-18,Campanha A,Facebook Ads,22867,437,11,673.29,Minas Gerais
+2024-01-19,Campanha A,Instagram,14238,945,40,207.56,Minas Gerais
+2024-01-20,Campanha C,Facebook Ads,5292,283,78,478.31,Rio de Janeiro
+2024-01-21,Campanha E,Google Ads,24328,142,17,464.29,Paraná
+2024-01-22,Campanha D,Facebook Ads,29553,615,47,165.15,São Paulo
+2024-01-23,Campanha B,LinkedIn Ads,13142,348,92,552.98,Paraná
+2024-01-24,Campanha A,Facebook Ads,24208,713,20,288.48,Paraná
+2024-01-25,Campanha D,Twitter Ads,7159,610,78,396.52,Minas Gerais
+2024-01-26,Campanha C,Instagram,21661,165,59,939.6,Minas Gerais
+2024-01-27,Campanha E,Google Ads,14923,992,89,275.55,Paraná
+2024-01-28,Campanha C,Facebook Ads,7586,544,9,622.33,Bahia
+2024-01-29,Campanha E,Google Ads,5451,891,14,565.61,Rio de Janeiro
+2024-01-30,Campanha C,LinkedIn Ads,13567,407,75,988.0,Paraná
+2024-01-31,Campanha A,LinkedIn Ads,26227,593,52,478.7,Minas Gerais
+2024-02-01,Campanha D,Google Ads,28425,301,82,400.88,Minas Gerais
+2024-02-02,Campanha A,Twitter Ads,22924,690,32,713.62,Rio de Janeiro
+2024-02-03,Campanha A,Facebook Ads,21099,890,21,544.67,Rio de Janeiro
+2024-02-04,Campanha D,Twitter Ads,23432,278,55,577.55,São Paulo
+2024-02-05,Campanha C,Instagram,14892,343,56,731.02,Minas Gerais
+2024-02-06,Campanha C,LinkedIn Ads,20849,553,53,811.42,Minas Gerais
+2024-02-07,Campanha C,Facebook Ads,21080,803,47,235.94,Rio de Janeiro
+2024-02-08,Campanha B,Instagram,9338,926,58,214.93,São Paulo
+2024-02-09,Campanha C,Instagram,12097,552,39,296.34,São Paulo
+2024-02-10,Campanha B,Instagram,22604,599,25,615.89,Paraná
+2024-02-11,Campanha D,Facebook Ads,14048,688,81,692.5,Rio de Janeiro
+2024-02-12,Campanha B,Facebook Ads,12832,239,18,469.06,Rio de Janeiro
+2024-02-13,Campanha A,Instagram,9291,462,63,906.54,Rio de Janeiro
+2024-02-14,Campanha C,Facebook Ads,17341,644,64,101.49,Paraná
+2024-02-15,Campanha A,LinkedIn Ads,6289,115,38,766.86,Minas Gerais
+2024-02-16,Campanha C,Facebook Ads,10225,922,32,863.23,Paraná
+2024-02-17,Campanha E,LinkedIn Ads,8321,760,34,709.43,São Paulo
+2024-02-18,Campanha E,Facebook Ads,21310,724,41,581.85,Minas Gerais
+2024-02-19,Campanha D,Facebook Ads,7415,281,68,621.8,Rio de Janeiro
+2024-02-20,Campanha D,Google Ads,5151,737,98,350.88,São Paulo
+2024-02-21,Campanha E,Google Ads,14202,443,50,649.86,Minas Gerais
+2024-02-22,Campanha E,Twitter Ads,14469,850,33,278.01,Minas Gerais
+2024-02-23,Campanha B,Facebook Ads,22381,162,46,680.45,Rio de Janeiro
+2024-02-24,Campanha C,LinkedIn Ads,27270,748,14,418.56,Paraná
+2024-02-25,Campanha A,Facebook Ads,21864,317,81,597.4,Bahia
+2024-02-26,Campanha C,Twitter Ads,14243,299,37,211.73,Minas Gerais
+2024-02-27,Campanha C,Instagram,25504,959,57,900.28,Bahia
+2024-02-28,Campanha C,Google Ads,29323,874,46,439.77,Minas Gerais
+2024-02-29,Campanha C,LinkedIn Ads,26893,966,69,735.19,Minas Gerais
+2024-03-01,Campanha C,LinkedIn Ads,16264,188,17,153.46,Paraná
+2024-03-02,Campanha B,Google Ads,16328,964,26,482.04,Bahia
+2024-03-03,Campanha C,Twitter Ads,25882,985,92,552.8,Bahia
+2024-03-04,Campanha D,Instagram,13542,748,7,661.34,Paraná
+2024-03-05,Campanha A,Facebook Ads,24596,501,18,879.14,Rio de Janeiro
+2024-03-06,Campanha A,Google Ads,12896,132,50,832.01,Paraná
+2024-03-07,Campanha A,Google Ads,17409,987,83,282.24,Paraná
+2024-03-08,Campanha C,Facebook Ads,21205,484,64,278.05,Minas Gerais
+2024-03-09,Campanha E,LinkedIn Ads,19880,890,52,552.19,Minas Gerais
+2024-03-10,Campanha E,Instagram,11960,952,5,327.35,Bahia
+2024-03-11,Campanha B,LinkedIn Ads,8004,494,93,333.98,Paraná
+2024-03-12,Campanha B,LinkedIn Ads,21721,316,25,521.26,Minas Gerais
+2024-03-13,Campanha D,Instagram,29423,411,32,283.56,Paraná
+2024-03-14,Campanha A,Facebook Ads,21756,912,91,352.59,Rio de Janeiro
+2024-03-15,Campanha C,Google Ads,17902,787,78,715.33,Rio de Janeiro
+2024-03-16,Campanha A,Google Ads,12475,460,19,786.7,Bahia
+2024-03-17,Campanha D,Instagram,20745,661,88,715.95,Bahia
+2024-03-18,Campanha B,Instagram,19925,339,77,838.05,Minas Gerais
+2024-03-19,Campanha B,LinkedIn Ads,23403,231,25,634.68,Bahia
+2024-03-20,Campanha D,Facebook Ads,16809,126,60,284.53,São Paulo
+2024-03-21,Campanha E,Twitter Ads,21156,229,68,228.92,Rio de Janeiro
+2024-03-22,Campanha A,Google Ads,16507,235,76,900.81,Bahia
+2024-03-23,Campanha A,Twitter Ads,14005,606,35,445.68,São Paulo
+2024-03-24,Campanha B,Instagram,13241,310,57,710.17,Paraná
+2024-03-25,Campanha C,LinkedIn Ads,5393,389,88,329.46,São Paulo
+2024-03-26,Campanha D,Facebook Ads,22227,659,91,359.9,Rio de Janeiro
+2024-03-27,Campanha E,LinkedIn Ads,8471,531,13,516.9,Bahia
+2024-03-28,Campanha A,Twitter Ads,15816,120,75,888.13,Bahia
+2024-03-29,Campanha A,Facebook Ads,6390,975,95,371.91,Rio de Janeiro
+2024-03-30,Campanha B,Google Ads,10239,302,78,720.45,Bahia
+2024-03-31,Campanha A,Twitter Ads,29763,970,32,127.53,Bahia
+2024-04-01,Campanha D,Facebook Ads,20905,124,50,966.53,Bahia
+2024-04-02,Campanha E,Facebook Ads,6637,214,45,153.39,Minas Gerais
+2024-04-03,Campanha C,Facebook Ads,13111,820,35,680.12,Bahia
+2024-04-04,Campanha B,LinkedIn Ads,7591,991,32,173.1,Paraná
+2024-04-05,Campanha D,Google Ads,6496,719,60,884.91,Bahia
+2024-04-06,Campanha B,Instagram,18114,552,34,654.24,Bahia
+2024-04-07,Campanha B,Instagram,19909,653,94,232.04,Minas Gerais
+2024-04-08,Campanha E,Facebook Ads,19856,335,97,374.17,Rio de Janeiro
+2024-04-09,Campanha B,LinkedIn Ads,29704,671,16,790.7,Bahia
+2024-04-10,Campanha E,Instagram,16554,316,6,966.86,São Paulo
+2024-04-11,Campanha C,Twitter Ads,23047,980,91,198.64,Paraná
+2024-04-12,Campanha B,Facebook Ads,28482,374,14,250.13,Bahia
+2024-04-13,Campanha C,Instagram,29168,696,25,323.24,Minas Gerais
+2024-04-14,Campanha B,Facebook Ads,19720,999,87,725.2,São Paulo
+2024-04-15,Campanha B,Instagram,23824,353,80,853.06,Paraná
+2024-04-16,Campanha E,Twitter Ads,28982,466,68,514.6,Paraná
+2024-04-17,Campanha D,Facebook Ads,21960,744,11,559.88,Bahia
+2024-04-18,Campanha A,Facebook Ads,21236,858,28,886.17,Paraná
+2024-04-19,Campanha B,LinkedIn Ads,12001,367,16,594.51,Paraná
+2024-04-20,Campanha C,Instagram,23253,725,60,577.67,Bahia
+2024-04-21,Campanha C,LinkedIn Ads,8065,457,17,569.14,Paraná
+2024-04-22,Campanha C,Instagram,10706,275,50,169.71,Minas Gerais
+2024-04-23,Campanha D,Google Ads,19653,350,59,436.27,Rio de Janeiro
+2024-04-24,Campanha D,Twitter Ads,14406,742,60,834.85,Bahia
+2024-04-25,Campanha A,LinkedIn Ads,12691,966,17,357.19,Paraná
+2024-04-26,Campanha D,Facebook Ads,20595,431,79,659.06,Bahia
+2024-04-27,Campanha C,Google Ads,5492,849,22,559.99,Paraná
+2024-04-28,Campanha E,Facebook Ads,6177,349,46,386.88,Rio de Janeiro
+2024-04-29,Campanha C,LinkedIn Ads,26235,210,72,930.5,Minas Gerais
+2024-04-30,Campanha A,Instagram,15694,489,52,468.85,Rio de Janeiro
+2024-05-01,Campanha D,Twitter Ads,27795,143,39,573.54,Bahia
+2024-05-02,Campanha E,LinkedIn Ads,24553,930,75,910.3,Bahia
+2024-05-03,Campanha D,LinkedIn Ads,18202,334,22,956.94,Rio de Janeiro
+2024-05-04,Campanha B,Instagram,11180,865,25,896.41,São Paulo
+2024-05-05,Campanha A,Facebook Ads,9702,108,69,231.46,Paraná
+2024-05-06,Campanha A,LinkedIn Ads,29832,639,67,238.57,Bahia
+2024-05-07,Campanha C,Google Ads,20678,847,49,314.85,Bahia
+2024-05-08,Campanha C,Facebook Ads,15738,126,60,641.89,Paraná
+2024-05-09,Campanha E,Facebook Ads,19613,937,97,878.98,Minas Gerais
+2024-05-10,Campanha B,Twitter Ads,9060,737,95,196.21,Rio de Janeiro
+2024-05-11,Campanha E,Instagram,9505,952,90,309.8,Bahia
+2024-05-12,Campanha A,Twitter Ads,8004,855,40,399.3,São Paulo
+2024-05-13,Campanha E,Facebook Ads,19335,368,81,207.18,Bahia
+2024-05-14,Campanha C,Instagram,19024,676,98,732.87,São Paulo
+2024-05-15,Campanha B,Google Ads,17292,130,46,397.6,Bahia
+2024-05-16,Campanha A,LinkedIn Ads,15034,895,97,398.49,Minas Gerais
+2024-05-17,Campanha C,Google Ads,5981,383,15,398.99,São Paulo
+2024-05-18,Campanha C,Facebook Ads,26164,458,80,846.61,Rio de Janeiro
+2024-05-19,Campanha A,Facebook Ads,24736,871,71,659.27,Paraná
+2024-05-20,Campanha C,LinkedIn Ads,16355,109,17,172.81,São Paulo
+2024-05-21,Campanha A,Instagram,19005,463,87,180.79,São Paulo
+2024-05-22,Campanha C,LinkedIn Ads,28899,383,48,812.5,Bahia
+2024-05-23,Campanha D,Google Ads,5900,738,13,824.15,Paraná
+2024-05-24,Campanha E,Twitter Ads,12867,566,60,401.86,Paraná
+2024-05-25,Campanha A,LinkedIn Ads,20910,906,95,312.66,São Paulo
+2024-05-26,Campanha E,Twitter Ads,24354,361,6,700.43,São Paulo
+2024-05-27,Campanha D,Google Ads,15643,820,9,773.2,Rio de Janeiro
+2024-05-28,Campanha C,Google Ads,5732,147,96,331.68,Bahia
+2024-05-29,Campanha C,Instagram,6826,220,42,312.38,São Paulo
+2024-05-30,Campanha E,Facebook Ads,21180,651,44,839.7,Rio de Janeiro
+2024-05-31,Campanha A,Facebook Ads,25799,113,27,552.27,Paraná
+2024-06-01,Campanha D,LinkedIn Ads,16650,145,63,570.41,Rio de Janeiro
+2024-06-02,Campanha D,Facebook Ads,20856,545,98,822.76,São Paulo
+2024-06-03,Campanha D,Google Ads,27998,334,69,660.02,Bahia
+2024-06-04,Campanha C,Instagram,17619,156,99,527.81,Paraná
+2024-06-05,Campanha B,Google Ads,12850,101,67,475.17,Minas Gerais
+2024-06-06,Campanha C,Google Ads,5834,261,76,201.04,Minas Gerais
+2024-06-07,Campanha A,Twitter Ads,24208,228,98,394.01,Minas Gerais
+2024-06-08,Campanha E,Facebook Ads,6459,182,62,208.9,Bahia
+2024-06-09,Campanha D,LinkedIn Ads,28669,616,86,881.18,Minas Gerais
+2024-06-10,Campanha D,LinkedIn Ads,27614,450,52,767.83,Rio de Janeiro
+2024-06-11,Campanha A,Google Ads,28290,908,60,345.71,Paraná
+2024-06-12,Campanha D,Facebook Ads,14261,509,17,633.4,Rio de Janeiro
+2024-06-13,Campanha D,Facebook Ads,9217,287,23,879.16,Paraná
+2024-06-14,Campanha D,Google Ads,6936,254,82,664.98,Paraná
+2024-06-15,Campanha A,Twitter Ads,28677,841,75,322.83,Bahia
+2024-06-16,Campanha C,LinkedIn Ads,22079,446,78,389.09,São Paulo
+2024-06-17,Campanha C,Facebook Ads,28812,254,86,568.65,Rio de Janeiro
+2024-06-18,Campanha C,LinkedIn Ads,10898,708,93,392.16,Minas Gerais
+2024-06-19,Campanha D,Twitter Ads,17517,774,74,751.94,Bahia
+2024-06-20,Campanha C,Facebook Ads,6655,362,61,765.69,São Paulo
+2024-06-21,Campanha B,Google Ads,16056,581,92,125.43,Bahia
+2024-06-22,Campanha C,LinkedIn Ads,5362,132,72,803.13,Paraná
+2024-06-23,Campanha A,Facebook Ads,10350,785,99,384.2,São Paulo
+2024-06-24,Campanha B,Google Ads,28423,401,65,775.8,Minas Gerais
+2024-06-25,Campanha A,Facebook Ads,26258,501,85,965.05,Minas Gerais
+2024-06-26,Campanha A,Twitter Ads,18828,200,54,806.68,Minas Gerais
+2024-06-27,Campanha B,Google Ads,27619,229,21,530.66,Bahia
+2024-06-28,Campanha A,Google Ads,28043,512,59,847.39,Rio de Janeiro
+2024-06-29,Campanha E,Facebook Ads,20727,356,49,728.99,Minas Gerais
+2024-06-30,Campanha E,Google Ads,21994,706,71,739.95,Rio de Janeiro
